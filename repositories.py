@@ -114,7 +114,7 @@ GROUP_REPOS = [
     [
         "group q",
         "<DevTroopers",
-        ["https://github.com/leosakharoff/itu-minitwit"],
+        ["https://github.com/DevTroopers-ITU/itu-minitwit"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
